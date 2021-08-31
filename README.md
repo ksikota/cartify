@@ -16,5 +16,7 @@
 # -run the dummy api with the provided db.json file
 # json-server db.json
 
+# it will be running at http://localhost:3000/products
+
 # -run the angular app
 # ng serve

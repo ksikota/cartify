@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Silver",
+      "description": "very long description",
+      "imageUrl": "https://www.candles4less.com/thumbnail.asp?file=assets/images/3inch-mercury-silver-square-vase.jpg",
+      "unitPrice": 150,
+      "isSale": false,
+      "currency": "ZAR",
+      "sku": "SKU001",
+      "isAvailable": "true"
+    },
+    {
+      "id": 2,
+      "name": "Kryptonite",
+      "description": "very long description ",
+      "imageUrl": "https://thumbs.dreamstime.com/z/krypton-symbol-square-shape-metallic-border-transparent-background-reflection-floor-d-render-krypton-102960885.jpg",
+      "unitPrice": 250,
+      "isSale": true,
+      "currency": "ZAR",
+      "sku": "SKU010",
+      "isAvailable": "false"
+    },
+    {
+      "id": 3,
+      "name": "Drums",
+      "description": "very long description",
+      "imageUrl": "https://strictlyforkidsstore.com/assets/images/hoh3770.jpg",
+      "unitPrice": 233,
+      "isSale": true,
+      "currency": "ZAR",
+      "sku": "SKU0100",
+      "isAvailable": "true"
+    },
+    {
+      "id": 4,
+      "name": "Drums",
+      "description": "very long description",
+      "imageUrl": "https://strictlyforkidsstore.com/assets/images/hoh3770.jpg",
+      "unitPrice": 233,
+      "isSale": true,
+      "currency": "ZAR",
+      "sku": "SKU0190",
+      "isAvailable": "true"
+    }
+  ]
+}
